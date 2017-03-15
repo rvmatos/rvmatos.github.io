@@ -553,6 +553,12 @@ section h3.section-subheading {
 aside.clients img {
   margin: 50px auto;
 }
+section#about .section-heading {
+  color: #eeeeee;
+}
+section#about h2 h3 {
+  color: #eeeeee;
+}
 section#contact {
   background-color: #222222;
   background-image: url('../img/map-image.png');
